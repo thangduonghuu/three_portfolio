@@ -9,7 +9,7 @@ export const Experience = () => {
       <OrbitControls enableZoom={false} />
       {/* <ScrollControls damping={0.25}> */}
       {/* <Overlay /> */}
-      <mesh geometry={nodes["01_office"].geometry} material={materials["01"]} />
+      <mesh geometry={nodes["01_office"]?.geometry} material={materials["01"]} />
       {/* <Office /> */}
       {/* </ScrollControls> */}
     </>
