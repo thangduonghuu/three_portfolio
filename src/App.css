@@ -1,0 +1,11 @@
+.app {
+  width: 100vw;
+  height: 100dvh;
+  background-color: #d9afd9;
+  display: flex;
+  background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
+}
+.Experience {
+  width: 100%;
+  height: 100%;
+}
