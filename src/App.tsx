@@ -8,7 +8,7 @@ function App() {
     <div className="app">
       <div className="profile">
         <h1>Duong Huu Thang</h1>
-        <p>Fornt end developer</p>
+        <p>Front end developer</p>
       </div>
       <div className="Experience">
         <Canvas
