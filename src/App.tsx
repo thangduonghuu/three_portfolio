@@ -7,9 +7,7 @@ function App() {
   return (
     <div className="app">
       <div className="profile">
-        <h1>
-          Duong Huu Thang
-        </h1>
+        <h1>Duong Huu Thang</h1>
       </div>
       <div className="Experience">
         <Canvas
